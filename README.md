@@ -4,7 +4,7 @@
 
 Olá! Eu sou **João Victor Daniel Pimenta**, estudante de **Engenharia de Software** na **UNIALFA**.
 
-Tenho interesse em desenvolvimento de software e venho construindo minha experiência através de projetos, estudos e prática constante.
+Tenho interesse em desenvolvimento de software e venho construindo minha experiência através de projetos e estudos.
 
 ---
 
