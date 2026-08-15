@@ -26,7 +26,21 @@ Tenho interesse em desenvolvimento de software e venho construindo minha experiÃ
 
 ## ğŸ“Š GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<div align="center">
+
+<img
+  height="180em"
+  src="./profile/stats.svg"
+  alt="GitHub Stats"
+/>
+
+<img
+  height="180em"
+  src="./profile/top-langs.svg"
+  alt="Principais linguagens"
+/>
+
+</div>
 
 ---
 
