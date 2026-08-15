@@ -26,13 +26,7 @@ Tenho interesse em desenvolvimento de software e venho construindo minha experiÃ
 
 ## ğŸ“Š GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JV0705&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JV0705&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"/>
-
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ---
 
