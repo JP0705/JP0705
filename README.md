@@ -28,9 +28,9 @@ Tenho interesse em desenvolvimento de software e venho construindo minha experiÃ
 
 <div align="center">
 
-<img height="180em" src="./JP0705/profile/stats.svg" alt="GitHub Stats"/>
+<img height="180em" src="./profile/stats.svg" alt="GitHub Stats"/>
 
-<img height="180em" src="./JP0705/profile/top-langs.svg" alt="Principais linguagens"/>
+<img height="180em" src="./profile/top-langs.svg" alt="Principais linguagens"/>
 
 </div>
 
